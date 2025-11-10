@@ -111,12 +111,13 @@ pip install requests python-dateutil
 ```
 
 ## Recursos extras
-```text
+- Youtube
 🔗 https://www.youtube.com/c/midudev
 ✅ Ideal para: Intermedios a Avanzados
 📌 Contenido: Desarrollo web, APIs, proyectos modernos
 🎯 Videos destacados: "Python para backend"
 
+-Libro
 🌐 https://drive.google.com/file/d/1NWCf21wuis1l0Kg27Rd3IaIXXKBcqgVU/view?usp=sharing
 📖 Disponible en: Español
 ✅ Nivel: Principiante
@@ -124,7 +125,7 @@ pip install requests python-dateutil
    - Enfoque práctico
    - Ejercicios interactivos
    - Perfecto para empezar desde cero
-```
+
 
 ## 📧 Contacto del Instructor
 - Nombre: Ing. Carlos Rodriguez Nieto, MSc
