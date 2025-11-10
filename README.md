@@ -110,6 +110,22 @@ python-dateutil>=2.8.2 # Para manejo de fechas
 pip install requests python-dateutil
 ```
 
+## Recursos extras
+```text
+🔗 https://www.youtube.com/c/midudev
+✅ Ideal para: Intermedios a Avanzados
+📌 Contenido: Desarrollo web, APIs, proyectos modernos
+🎯 Videos destacados: "Python para backend"
+
+🌐 https://drive.google.com/file/d/1NWCf21wuis1l0Kg27Rd3IaIXXKBcqgVU/view?usp=sharing
+📖 Disponible en: Español
+✅ Nivel: Principiante
+💡 Características: 
+   - Enfoque práctico
+   - Ejercicios interactivos
+   - Perfecto para empezar desde cero
+```
+
 ## 📧 Contacto del Instructor
 - Nombre: Ing. Carlos Rodriguez Nieto, MSc
 - Email: crxxxxx@unemi.edu.ec
