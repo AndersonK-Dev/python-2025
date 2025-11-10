@@ -58,16 +58,16 @@ git clone https://github.com/tu-usuario/python-curso-unemi.git
 ## 🏗️ Contenido por Unidades
 
 ### 🟢 Unidad 1: Introducción a Python
-- Temas: Variables, tipos de datos, operadores, estructuras condicionales, bucles
+Temas: Variables, tipos de datos, operadores, estructuras condicionales, bucles
 
 ### 🔵 Unidad 2: Programación Intermedia
-- Temas: Estructuras de datos, funciones, manejo de archivos, excepciones
+Temas: Estructuras de datos, funciones, manejo de archivos, excepciones
 
 ### 🟡 Unidad 3: Programación Orientada a Objetos
-- Temas: Clases, herencia, polimorfismo, creación de scripts
+Temas: Clases, herencia, polimorfismo, creación de scripts
 
 ### 🔴 Unidad 4: Programación Avanzada
-- Temas: Decoradores, generadores, consumo de APIs
+Temas: Decoradores, generadores, consumo de APIs
 
 ## 🚀 Proyecto Final: Sistema de Gestión de Tienda Online
 
